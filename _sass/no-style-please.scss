@@ -70,14 +70,14 @@ table, th, td {
 code {
   color: white;
   background: black;
-  overflow-x: auto;
-  white-space: pre-wrap;
+  overflow: auto;
+  white-space: pre;
 }
 
 div.highlighter-rouge code {
   display: block;
   overflow-x: auto;
-  white-space: pre-wrap;
+  white-space: pre;
   padding: 1rem;
 }
 
